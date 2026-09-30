@@ -1,0 +1,4 @@
+fastapi>=0.115
+pymongo>=4.8
+dnspython>=2.6
+PyJWT>=2.9
